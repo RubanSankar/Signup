@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid #000000;
+  padding: 50px;
+  margin: 20px;
+  position: absolute;
+  left: 35%;
+  }
